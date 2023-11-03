@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joachimasare
 - 👀 I’m interested in Human-centered design engineering in AI/ML, IoT system design, embeded systems design and web app development.
-- 🌱 I’m currently learning deep learning and neural networks
-- 💞️ I’m looking to collaborate on IoT and Machine learning projects
+- 🌱 I’m currently spending time developing user-centric visualizations for LLM models and 
+- 💞️ I’m looking to collaborate on projects relating to Human-Centered Design for AI and AIoT
 - 📫 How to reach me: email me at asare.joachim@gmail.com
 
 <!---
